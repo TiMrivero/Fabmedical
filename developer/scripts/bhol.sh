@@ -61,5 +61,5 @@ gh secret set ACR_PASSWORD -b "$ACR_PASSWORD"
 
 # Committing repository
 cd ~/Fabmedical
-git branch -m master main
-git push -u origin main
+git branch -m master main1
+git push -u origin main1
